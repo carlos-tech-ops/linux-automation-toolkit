@@ -4,15 +4,16 @@ Part of my **CompTIA Linux+ XK0-005** hands-on study path.
 
 ---
 
-## 📌 Project Goal
-Automate routine Linux administration tasks with a Bash script, schedule it via `cron`, and containerize it with Docker for portable execution.
+## ✅ Feature-to-Skill Map
 
-| Feature | What it Proves |
-|---------|----------------|
-| **Bash script (`disk_alert.sh`)** | Command-line fluency, I/O redirection, conditions |
-| **Cron job** | Recurring automation & log management |
-| **Dockerfile** | Container basics & reproducible builds |
-| **GitHub repo** | Version-controlled, well-documented portfolio artifact |
+| Feature                         | What it Proves                                                    |
+|---------------------------------|--------------------------------------------------------------------|
+| Bash script for disk alerts     | Able to write and execute shell scripts to monitor system usage   |
+| Cron job automation             | Knows how to schedule repetitive tasks using `crontab`             |
+| Docker container execution      | Understands script containerization and basic Dockerfile syntax   |
+| Git version control             | Proficient in Git commit flow and history cleanup (rebase, squash)|
+| Markdown documentation          | Can write clear, structured technical documentation in `README.md`|
+| Screenshot validation           | Proves command-line output through real-world terminal screenshots|
 
 ---
 
