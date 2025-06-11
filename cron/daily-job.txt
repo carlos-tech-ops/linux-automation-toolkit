@@ -1,0 +1,3 @@
+# Cron job to execute disk_alert.sh daily at 8:00 AM
+
+0 8 * * * /Users/carlossemeao/linux-automation-toolkit/scripts/disk_alert.sh
